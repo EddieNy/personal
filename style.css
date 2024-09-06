@@ -62,6 +62,7 @@ a{
 
 .dev{
     width: 50%;
+    padding-top: 50px;
 }
 
 .tux{
@@ -70,6 +71,7 @@ a{
 
 .win-img{
     width: 50%;
+    padding-top: 50px;
 }
 
 .bottom-container{ 
